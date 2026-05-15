@@ -179,10 +179,10 @@ jupyter notebook IPL_Analytics_Project.ipynb
 
 ---
 
-## 👤 Author
+## 👤 Made by
 
 **Om Dehariya**
-First Year Studnt at IIT INDORE
+First Year Student at IIT INDORE
 ---
 
 ## 📄 License
